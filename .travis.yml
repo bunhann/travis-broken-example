@@ -3,5 +3,5 @@ dist: trusty
 php:
   - 5.6
   - 5.4
-  - hhvm-3.1
+  - hhvm
 script: phpunit Test.php
