@@ -1,6 +1,7 @@
 language: php
 php:
+  - 7.1
   - 5.5
   - 5.4
-  - hhvm
+  - hhvm-3.6
 script: phpunit Test.php
